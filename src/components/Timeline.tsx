@@ -5,6 +5,7 @@ import { faBriefcase } from '@fortawesome/free-solid-svg-icons';
 import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
 import '../assets/styles/Timeline.scss'
+import Organizations from './Organizations';
 
 function Timeline() {
   return (
@@ -96,6 +97,7 @@ function Timeline() {
             </ul>
           </VerticalTimelineElement>
         </VerticalTimeline>
+        <Organizations />
       </div>
     </div>
   );
