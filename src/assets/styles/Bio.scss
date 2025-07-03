@@ -1,0 +1,19 @@
+.bio-container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 32px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.07);
+}
+
+.bio-container h1 {
+  margin-bottom: 1.5rem;
+  font-size: 2.5rem;
+  color: #222;
+}
+
+.bio-container p {
+  font-size: 1.2rem;
+  color: #444;
+}

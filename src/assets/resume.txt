@@ -1,0 +1,51 @@
+JAKE MULLINS | DATA ENGINEER 
+New York, NY | 770.402.8705 | Email | LinkedIn | GitHub
+Data Engineer with 5 years of experience designing and deploying scalable data products in complex environments. Skilled in
+building resilient ETL/ELT pipelines with tools like Snowflake, Dbt, and Airflow, backed by deep expertise in Python and SQL.
+Extensive experience managing cloud projects and integrating data across AWS, Azure, and GCP environments. History of
+leading high-impact projects and facilitating cross-functional design discussions to deliver business-critical solutions.
+PROFESSIONAL EXPERIENCE
+DATA ENGINEER III | CONTRACT, L’ORÉAL, NEW YORK, NY 10/2024 - Present
+● Automated transforming raw market research data to deliver sales metrics for thousands of brand and competitor products,
+replacing the cumbersome processing of millions of records in excel and saving dozens of analyst hours every month.
+● Supported research and data scientists in migrating numerous projects from local silos to the enterprise cloud, designing
+solutions to integrate data from Onedrive and Azure to GCP and BigQuery.
+DATA ENGINEER | CONTRACT, PFIZER INC, NEW YORK, NY 12/2023 - 08/2024
+● Led the development and deployment of 3 major data pipeline releases, designing and deploying 50+ batch and streaming
+pipelines using Apache Kafka, Snowflake streams, AWS S3, and Apache Spark.
+● Integrated complex business requirements across multiple teams, establishing a robust budgeting and supply planning model
+for 5-year global stock projections.
+● Optimized a critical SQL pipeline handling massive datasets, doubling performance for a table supporting long-term
+budgeting and supply chain planning used by 40+ internal customers.
+DATA ENGINEER CONSULTANT | CONTRACT, U.S. AIR FORCE, NEW YORK, NY 05/2023 - 08/2023
+● Built and scaled complex data pipelines with Python, Apache Airflow, and Docker, ensuring seamless ETL operations across
+heterogeneous storage systems in a high-security environment.
+● Ensured software reliability by implementing comprehensive unit tests with Pytest across frontend, backend, and database
+layers, significantly improving code quality and reducing bugs in production.
+● Led live demos, debugged beta software, and provided real-time support as the sole onsite engineer for a US military client,
+successfully deploying over 30 days ahead of schedule.
+DATA ANALYTICS ENGINEER II | GROWTH LOOP, NEW YORK, NY 12/2021 - 01/2023
+● Led the development of an identity resolution project to integrate 50 million customer records from more than 10 sources,
+delivering 360-customer-view datasets and a single source of truth for the entire organization.
+● Drafted technical specifications and collaborated with engineering and sales teams on web application development,
+successfully launching a new identity resolution product offering.
+● Implemented a master data management plan, leading the cooperation between multiple VP stakeholders to define key
+business logic and ultimately deliver an enterprise master data catalog.
+DATA ANALYTICS ENGINEER | GROWTH LOOP, NEW YORK, NY 03/2021 - 12/2021
+● Standardized SQL practices across client repositories by implementing an automated linter in production pipelines, leading to
+consistent code quality and adherence to organizational guidelines.
+● Deployed, owned, and maintained production Airflow pipelines for five enterprise clients, syncing their warehouse data with
+their production CRM platforms to enrich and update their customer data at a scale millions of records daily.
+● Created a scalable dbt framework cross-compatible with both AWS/Snowflake and GCP/Bigquery, facilitating the successful
+expansion of the core product to 10+ new clients.
+DATA SCIENTIST | GALVANIZE INC, NEW YORK, NY 01/2020 - 06/2020
+● Completed a rigorous python-based certificate program with a focus on machine learning on AWS cloud platforms
+culminating in the production and delivery of a final capstone project.
+TECHNICAL SKILLS
+Python, SQL, DBT, ELT/ETL, REST APIs, Airflow, Data Pipeline Orchestration, Spark, Kafka, Real-Time Streaming, GCP, AWS,
+S3, EC2, Docker, Kubernetes, Data Modeling, Master Data Management, Data Warehouse, Data Lake Architecture, Metadata
+Management, Relational Databases, Postgres, Snowflake, BigQuery, Data Validation, Parquet, Automated Testing, CI/CD, Jenkins,
+GitLab, Statistical Analysis, Numpy, Pandas, Data Visualization, Matplotlib
+EDUCATION
+GALVANIZE INC, Data Science Certificate, 2020
+GEORGIA INSTITUTE OF TECHNOLOGY, Chemistry, 2014-2017 B.S. Chemistry
