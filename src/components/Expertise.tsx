@@ -93,7 +93,7 @@ function Expertise() {
         <div className="education-section" style={{marginTop: '2rem'}}>
           <h2>Education</h2>
           <ul>
-            <li><strong>Galvanize Inc</strong>, Data Science Certificate, 2020</li>
+            <li><strong>Galvanize Inc</strong>, Data Science Accelerator, 2020</li>
             <li><strong>Georgia Institute of Technology</strong>, B.S. Chemistry, 2014-2017</li>
           </ul>
         </div>

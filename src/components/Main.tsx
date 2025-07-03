@@ -17,7 +17,6 @@ function Main() {
             <a href="https://www.linkedin.com/in/jakecmullins" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Jake Mullins</h1>
-          <p>Data Engineer</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/jakemull13" target="_blank" rel="noreferrer"><GitHubIcon/></a>
@@ -25,10 +24,7 @@ function Main() {
           </div>
           <div className="about-summary">
             <p>
-              Data Engineer with 5 years of experience designing and deploying scalable data products in complex environments. Skilled in building resilient ETL/ELT pipelines with tools like Snowflake, Dbt, and Airflow, backed by deep expertise in Python and SQL. Extensive experience managing cloud projects and integrating data across AWS, Azure, and GCP environments. History of leading high-impact projects and facilitating cross-functional design discussions to deliver business-critical solutions.
-            </p>
-            <p>
-              New York, NY | 770.402.8705 | jake.c.mullins@icloud.com
+              Senior Data Engineer with 5 years of experience designing and deploying scalable data products in complex environments. Skilled in building resilient ETL/ELT pipelines with tools like Snowflake, Dbt, and Airflow, backed by deep expertise in Python and SQL. Extensive experience managing cloud projects and integrating data across AWS, Azure, and GCP environments. History of leading high-impact projects and facilitating cross-functional design discussions to deliver business-critical solutions.
             </p>
           </div>
         </div>

@@ -60,6 +60,14 @@
     color: rgb(39, 40, 34);
 }
 
+.education-section h2, .education-section li {
+  color: white;
+}
+
+.light-mode .education-section h2, .light-mode .education-section li {
+  color: #0d1116;
+}
+
 @media screen {
     @media (max-width: 768px) {
         .skills-container {
