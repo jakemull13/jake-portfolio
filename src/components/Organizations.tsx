@@ -4,6 +4,7 @@ import pfizerLogo from '../assets/images/logos/pfizer.png';
 import usafLogo from '../assets/images/logos/usaf.png';
 import nascarLogo from '../assets/images/logos/nascar.svg';
 import growthloopLogo from '../assets/images/logos/growthloop.svg';
+import mlbLogo from '../assets/images/logos/mlb.png'; // Added MLB logo import
 
 const organizations = [
   { name: "L'Oréal", src: lorealLogo },
@@ -11,11 +12,12 @@ const organizations = [
   { name: "USAF", src: usafLogo },
   { name: "NASCAR", src: nascarLogo },
   { name: "Growth Loop", src: growthloopLogo },
+  { name: "MLB", src: mlbLogo }, // Added MLB organization
 ];
 
 const Organizations = () => (
   <section className="organizations-section" style={{ margin: '3rem 0' }}>
-    <div style={{ textAlign: 'center', marginBottom: '1rem', fontWeight: 700, fontSize: '2rem', letterSpacing: '0.02em' }}>Worked With</div>
+    <div style={{ textAlign: 'center', marginBottom: '1rem', fontWeight: 500, fontSize: '1rem', letterSpacing: '0.02em' }}>Previous Clients & Employers</div>
     <div className="organization-logos" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '2.5rem', flexWrap: 'nowrap', maxWidth: '100%', overflowX: 'auto' }}>
       {organizations.map((org) => (
         <img
