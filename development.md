@@ -57,3 +57,8 @@ personal-health-dashboard/
 Automatically track and visualize your daily HRV, steps, or resting heart rate in a live dashboard — showing off your skills as a data engineer while also improving personal health awareness.
 
 ⸻
+curl -X POST https://ingest-api-381855915236.us-central1.run.app/ingest \
+  -H "Content-Type: application/json" \
+  -d '{"type":"resting_heart_rate","value":62,"timestamp":"2025-07-15T07:45:00Z"}'
+
+ https://ingest-api-381855915236.us-central1.run.app

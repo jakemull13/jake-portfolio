@@ -1,0 +1,62 @@
+export GOOGLE_APPLICATION_CREDENTIALS="path/to/key.json"
+export BQ_DATASET="your_dataset"
+export BQ_TABLE="your_table"
+
+cd ingest
+pip install -r requirements.txt
+python main.py
+
+## post with curl
+
+curl -X POST http://localhost:5000/ingest \
+  -H "Content-Type: application/json" \
+  -d '{"type":"HRV","value":65,"timestamp":"2025-07-15T10:30:00Z"}'
+
+
+
+
+
+
+
+curl -X POST http://localhost:5000/ingest \
+  -H "Content-Type: application/json" \
+  -d '{"type":"HRV","value":65,"timestamp":"2025-07-15T10:30:00Z"}'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
