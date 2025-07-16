@@ -16,6 +16,13 @@ function Project() {
       <div className="projects-container" id="projects">
         <h1>Personal Projects</h1>
         <div className="projects-grid">
+          <div className="project">
+            <h2>Personal Portfolio Website</h2>
+            <p>This very website! Built with React and SCSS, deployed on Vercel, and open-sourced for others to learn from and adapt.</p>
+            <a href="https://github.com/jakemull13/jake-portfolio" target="_blank" rel="noopener noreferrer" className="project-link">
+              View Source on GitHub
+            </a>
+          </div>
           <div className="project placeholder">
             <h2>Coming Soon</h2>
             <p>Jake Mullins' personal projects will be added here. Stay tuned!</p>
